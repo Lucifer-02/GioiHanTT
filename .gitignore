@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+./genArray.cpython-39-x86_64-linux-gnu.so
+./genArray.cpython-310-x86_64-linux-gnu.so
+genArray.egg-info/
+zig-cache/
