@@ -39,3 +39,5 @@ Thì y có phân phối gần chuẩn
 4. y = a + 2b - 6c + 155 + d + 3e - f + (g - h)*7
 
 ![image](https://user-images.githubusercontent.com/84069686/194537391-ada857c7-d73f-4b79-972e-174a61ad437c.png)
+
+### Có thể thấy khi tăng số yếu tố ảnh hưởng đến y thì phân phối của nó sẽ dần tiến về chuẩn, thật là vi diệu :
