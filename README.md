@@ -4,9 +4,7 @@
 
 ## Ý tưởng
 Theo ý nghĩa trên nếu biến:
-$$
-y = f_1(A_1) + f_2(A_2) +...
-$$
+$$y = f_1(A_1) + f_2(A_2) +...$$
 Với:
 - $A_1,A_2,...$ là các biến ngẫu nhiên
 - Các hàm $f_i$ tương ứng có giá trị không lấn án các phần còn lại
