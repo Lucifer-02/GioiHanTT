@@ -9,7 +9,7 @@ Với:
 - $A_1,A_2,...$ là các biến ngẫu nhiên
 - Các hàm $f_i$ tương ứng có giá trị không lấn án các phần còn lại
 
-Thì y có phân phối gần chuẩn
+Thì $y$ có phân phối gần chuẩn
 
 ## Thực hiện
 1. Khởi tạo các biến và một mảng trong `src/main.zig`
