@@ -38,4 +38,4 @@ Thì $y$ có phân phối gần chuẩn
 
 ![image](https://user-images.githubusercontent.com/84069686/194537391-ada857c7-d73f-4b79-972e-174a61ad437c.png)
 
-### Có thể thấy khi tăng số yếu tố ảnh hưởng đến y thì phân phối của nó sẽ dần tiến về chuẩn, thật là vi diệu 😯. Người ta vẫn đang tranh cãi việc Toán học được khám phá hay phát minh ra, có vẻ trong trường hợp này câu trả lời nghiêng về bên trái!
+### Có thể thấy khi tăng số yếu tố ảnh hưởng đến y thì phân phối của nó sẽ dần tiến về chuẩn, thật là vi diệu 😯. Người ta vẫn đang tranh cãi việc Toán học được khám phá hay phát minh ra, có vẻ trong trường hợp này câu trả lời nghiêng về vế trái!
