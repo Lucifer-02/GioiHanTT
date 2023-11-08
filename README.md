@@ -1,5 +1,3 @@
-# Kiểm chứng định lý Giới hạn trung tâm
-
 > Ý nghĩa của Định lý giới hạn trung tâm là khi có nhiều nhân tố ngẫu nhiên tác động (sao cho không có nhân tố nào vượt trội lấn át các nhân tố khác) thì kết quả của chúng có dạng phân phối tiệm cận chuẩn.
 
 ## Ý tưởng
